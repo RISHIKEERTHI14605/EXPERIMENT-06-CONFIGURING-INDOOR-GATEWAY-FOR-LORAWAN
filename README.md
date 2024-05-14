@@ -1,3 +1,7 @@
+###  NAME:RISHI KEERTHI K
+###  ROLL NO :212222043007
+
+
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
